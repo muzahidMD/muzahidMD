@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋, I'm Muzahidul
 
-<!--
-**muzahidMD/muzahidMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I love working with Laravel, PHP, and MySQL  
+- 📚 Currently learning React  
+- 🎯 Goal: Build scalable web applications  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...                                       
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzahidul&show_icons=true&theme=tokyonight)
